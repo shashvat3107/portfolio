@@ -4,6 +4,7 @@
   "description": "Portfolio website built with React and Node.js",
   "main": "server/index.js",
   "scripts": {
+    "build": "react-scripts build",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "server": "cd server && npm run dev",
     "client": "cd client && npm start",
