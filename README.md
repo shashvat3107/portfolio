@@ -1,4 +1,4 @@
-# ZYAN - Portfolio Website
+# Shashvat - Portfolio Website
 
 A modern, responsive portfolio website built with React and Node.js featuring a dark theme design with green accent colors.
 
